@@ -1,1 +1,1 @@
-# treinamentodelphi-eficacia
+# treinamentoDelphi-eficacia
