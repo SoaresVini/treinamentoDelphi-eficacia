@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/26 14:48:58.000.518,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/10/26 14:57:55.000.314,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Administrador\Desktop\Systema Delphi\APrincipal.dfm</Transaction>
+    <Transaction>2022/10/26 14:57:55.000.314,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Administrador\Desktop\Systema Delphi\APrincipal.pas</Transaction>
+    <Transaction>2022/10/26 14:58:17.000.013,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Administrador\Desktop\Systema Delphi\SisFat.dproj</Transaction>
+    <Transaction>2022/10/26 15:00:30.000.712,=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/26 15:06:39.000.511,=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/26 15:08:59.000.104,=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/26 15:43:15.000.376,C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas=C:\Users\Administrador\Desktop\Systema Delphi\udM.pas</Transaction>
+    <Transaction>2022/10/26 15:43:15.000.376,C:\Users\Administrador\Desktop\Systema Delphi\Unit1.dfm=C:\Users\Administrador\Desktop\Systema Delphi\udM.dfm</Transaction>
+    <Transaction>2022/10/27 14:09:44.000.589,=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 14:19:09.000.438,=C:\Users\Administrador\Desktop\Systema Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/10/27 14:19:35.000.436,C:\Users\Administrador\Desktop\Systema Delphi\AClientes.dfm=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/10/27 14:19:35.000.436,C:\Users\Administrador\Desktop\Systema Delphi\AClientes.pas=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 14:27:26.000.587,C:\Users\Administrador\Desktop\Systema Delphi\AVendedores.dfm=C:\Users\Administrador\Desktop\Systema Delphi\AClientes.dfm</Transaction>
+    <Transaction>2022/10/27 14:27:26.000.587,C:\Users\Administrador\Desktop\Systema Delphi\AVendedores.pas=C:\Users\Administrador\Desktop\Systema Delphi\AClientes.pas</Transaction>
+    <Transaction>2022/10/27 14:27:42.000.630,C:\Users\Administrador\Desktop\Systema Delphi\AClientes.dfm=C:\Users\Administrador\Desktop\Systema Delphi\Unit2.dfm</Transaction>
+    <Transaction>2022/10/27 14:27:42.000.630,C:\Users\Administrador\Desktop\Systema Delphi\AClientes.pas=C:\Users\Administrador\Desktop\Systema Delphi\Unit2.pas</Transaction>
+    <Transaction>2022/10/27 14:27:53.000.401,=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 14:34:41.000.132,C:\Users\Administrador\Desktop\Systema Delphi\AProduto.dfm=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.dfm</Transaction>
+    <Transaction>2022/10/27 14:34:41.000.132,C:\Users\Administrador\Desktop\Systema Delphi\AProduto.pas=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 14:36:55.000.715,=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 15:09:49.000.157,C:\Users\Administrador\Desktop\Systema Delphi\ANotaFiscal.pas=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 15:09:49.000.157,C:\Users\Administrador\Desktop\Systema Delphi\ANotaFiscal.dfm=C:\Users\Administrador\Desktop\Systema Delphi\Unit1.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="APrincipal.pas"/>
+    <File Path="APrincipal.dfm"/>
+    <File Path="udM.pas"/>
+    <File Path="udM.dfm"/>
+    <File Path="AClientes.pas"/>
+    <File Path="AClientes.dfm"/>
+    <File Path="ANotaFiscal.pas"/>
+    <File Path="ANotaFiscal.dfm"/>
+    <File Path="AProduto.pas"/>
+    <File Path="AProduto.dfm"/>
+    <File Path="AVendedores.pas"/>
+    <File Path="AVendedores.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
